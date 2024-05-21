@@ -12,3 +12,6 @@ achieve 90% accuracy in both, will be used in the backend of the desktop applica
 Link for dataset:https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images
 ............................................................................................................................
 contains all the implementation for the three main models trained, tested and validated on the dataset + the code to run the Deepfake detection GUI application + some saved .h5 models.
+.............................................................................................................................
+FUTURE PLANS:
+-Use flask to create a web application of this work.
